@@ -1,0 +1,30 @@
+---
+title: "Qualitative Research - A Statistician's Journey"
+author: "Allison Theobold"
+date: "September 21, 2017"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 5
+  html_document:
+    fig_height: 3
+    fig_width: 5
+  word_document:
+    fig_height: 3
+    fig_width: 5
+---
+
+```{r, setup, include=FALSE}
+require(mosaic)   # Load additional packages here 
+
+# Some customization.  You can alter or delete as desired (if you know what you are doing).
+trellis.par.set(theme=theme.mosaic()) # change default color scheme for lattice
+knitr::opts_chunk$set(
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+```
+
+## Abstract
+
+We will explore the complexities of qualitative research, defining philosophical assumptions, paradigms, and theoretical frameworks. These concepts will then be implemented in a scenario that challenges participants to create their own qualitative definitions and experience the process of conducting qualitative research.  
+

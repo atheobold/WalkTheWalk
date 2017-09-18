@@ -1,0 +1,67 @@
+---
+title: "Qualitative Research: A Statistician's Journey"
+author: "Allison Theobold"
+date: "April 21, 2017"
+output:
+  ioslides_presentation:
+    incremental: TRUE
+    fig_width: 3
+    fig_height: 10
+---
+
+## What is Qualitative Research?    
+
+As defined by Creswell in 2007, qualitative research, 
+
+_"begins with assumptions, a worldview, the possible use of a theoretical lens, and the study of research problems inquiring into the meaning individuals or groups ascribe to a social or human problem. To study this problem, qualitative researchers use an emerging qualitative approach to inquiry, the collection of data in a natural setting sensitive to the people and places under study, and data analysis that is inductive and establishes patterns or themes. The final written report or presentation
+includes the voices of participants, the reflexivity of the researcher, and a complex description and interpretation of the problem, and it extends the literature or signals a call for action."_ 
+
+## Philosophical Assumptions  
+* The research process begins with an introspective assessment of the philosophical assumptions the researcher is making in the study.  
+
+* Researchers bring their own worldviews, beliefs, and experiences to their research.  
+
+* Good research practice is to disclose the philosophical assumptions you are making in the research.  
+
+## The Five Assumptions  
+
+Five philsophical assumptions lead to an individual's choice of qualitative research:  
+
+* ontology (nature of reality)    
+* epistemology (acquisition of knowledge)    
+* axiology (role of values)  
+* rhetorical (language)  
+* methodological (methods)  
+
+## Paradigms or Worldviews  
+
+* A paradigm is "a basic set of beliefs that guide action". (Guba, 1990)  
+
+* These are often call paradigms, philosophical assumptions, research methodologies, and alternative knowledge claims.  
+ 
+* Individuals may use multiple paradigms in their research that are compatible, as we will see.  
+
+## Postpositivism  
+
+* Research using this belief system take a scientific approach to research.  
+
+* This belief has elements of being, 
+    + reductionist  
+    + logical  
+    + empirical (data collection)  
+    + cause-and-effect oriented, and  
+    + deterministic (based on prior theories).  
+    
+    
+
+## Social Constructivism  
+
+## Pragmatism  
+
+## 
+
+## References
+
+Denzin and Lincoln (2005)
+
+https://en.wikipedia.org/wiki/Qualitative_research
