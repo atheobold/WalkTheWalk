@@ -8,10 +8,10 @@ output:
     fig_width: 3
     fig_height: 10
 ---
-
+                                                                                                                                                                                                                                                                                   
 ## What is Qualitative Research?    
 
-As defined by Creswell in 2007, qualitative research, 
+As defined by Creswell in 2007 \cite{creswell}, qualitative research, 
 
 _"begins with assumptions, a worldview, the possible use of a theoretical lens, and the study of research problems inquiring into the meaning individuals or groups ascribe to a social or human problem. To study this problem, qualitative researchers use an emerging qualitative approach to inquiry, the collection of data in a natural setting sensitive to the people and places under study, and data analysis that is inductive and establishes patterns or themes. The final written report or presentation
 includes the voices of participants, the reflexivity of the researcher, and a complex description and interpretation of the problem, and it extends the literature or signals a call for action."_ 
@@ -19,31 +19,30 @@ includes the voices of participants, the reflexivity of the researcher, and a co
 ## Philosophical Assumptions  
 * The research process begins with an introspective assessment of the philosophical assumptions the researcher is making in the study.  
 
-* Researchers bring their own worldviews, beliefs, and experiences to their research.  
+* Researchers bring their own worldviews, beliefs, and experiences into their research.  
 
 * Good research practice is to disclose the philosophical assumptions you are making in the research.  
 
 ## The Five Assumptions  
 
-Five philsophical assumptions lead to an individual's choice of qualitative research:  
+Five philosophical assumptions lead to an individual's choice of qualitative research:  
 
-* ontology (nature of reality)    
-* epistemology (acquisition of knowledge)    
-* axiology (role of values)  
-* rhetorical (language)  
-* methodological (methods)  
+* ontology - What is the nature of reality?     
+* epistemology - What counts as knowledge? How are knowledge claims justified?      
+* axiology - What is the role of values?  
+* methodological - What is the process of research?  
 
-## Paradigms or Worldviews  
+## Interpretive Frameworks, Paradigms, or Worldviews  
 
-* A paradigm is "a basic set of beliefs that guide action". (Guba, 1990)  
+* A paradigm is "a basic set of beliefs that guide action." (Guba, 1990)  
 
-* These are often call paradigms, philosophical assumptions, research methodologies, and alternative knowledge claims.  
+* These are often have many different names such as the three above and, philosophical assumptions, research methodologies, and alternative knowledge claims.  
  
 * Individuals may use multiple paradigms in their research that are compatible, as we will see.  
 
 ## Postpositivism  
 
-* Research using this belief system take a scientific approach to research.  
+* Researchers using this belief system take a more scientific approach to research.  
 
 * This belief has elements of being, 
     + reductionist  
@@ -53,15 +52,129 @@ Five philsophical assumptions lead to an individual's choice of qualitative rese
     + deterministic (based on prior theories).  
     
     
-
 ## Social Constructivism  
 
+* Seeks understanding of the world in which the participants live and work. 
+
+* Individuals develop subjective meanings of their experiences, where experiences are  
+    + varied and multiple,    
+    + formed through interactions with others, and   
+    + socially and historically constructed.  
+    
+## Transformative  
+
+* Knowledge is not neutral, but reflects the power and social relationships within society.  
+    + The purpose of knowledge construction is to improve society's marginalized groups.  
+
+* Research contains an action agenda for reform, that may change  
+    + the lives of the participants  
+    + the institutions in which they live and work, or even  
+    + the researcher's lives.  
+    
+## Postmodernism  
+
+* Research focuses on changing ways of thinking rather than on calling for action based on these changes.  
+
+* Knowledge claims are set within the conditions of the world today and in the multiple perspectives of class, race, gender, etc.  
+    + Multiple perspectives based on group affiliations. 
+    + Negative conditions, shown in the presence of hierarchies, power and control by individuals, and the multiple meanings of language.  
+    
 ## Pragmatism  
 
-## 
+* Focuses on the outcomes of the research rather than antecedent conditions (as in postpostivism).    
+    + The research problem and research questions are a more important aspect of research than the methods used.  
+    
+* Takes a "what works" solution to problems. 
 
-## References
+## Feminism  
 
-Denzin and Lincoln (2005)
+* Draws from different theoretical and pragmatic orientations, international contexts, and dynamic developments.  
 
-https://en.wikipedia.org/wiki/Qualitative_research
+* Focuses on women's diverse situations and the institutions that frame those situations.  
+
+* View gender as a basic organizing principle that shapes the conditions of the participants' lives.  
+
+## Critical Theory  
+
+* Concerned with empowering human beings to transcend the constraints placed on them by class, race, gender, ability level, sexual orientation, etc.
+
+* Researchers acknowledge their own power, engage in dialogues, and use theory to interpret or illuminate social action.  
+
+* Has many subtheories, such as:  
+    + Critical Race Theory  
+    + Queer Theory  
+    + Disability Theory  
+
+## Linking the Philosophical Assumptions and Paradigms  
+
+* The different paradigms convey different philosophical assumptions.  
+
+* We as researchers need to be aware of the differences, and  
+    + discuss the central tenets of the chosen framework, as well as   
+    + how they inform the problem, research questions, data collection, analysis, and interpretation within the study.  
+
+## A Qualitative Exercise  
+
+* __Think about and write down the most effective ways, you have found, that you learn mathematics.__  
+
+* __Think about and write down two experiences you have had that shaped these views.__  
+
+* __Find the Interpretative Framework that best fits your beliefs regarding the process of learning mathematics.__   
+
+* __Compare with the person next to you.__ 
+
+## Approaches to Inquiry  
+
+* Identifying the approach to qualitative inquiry allows the researcher to  
+
+    + present a sophisticated study,  
+    + offer it as a specific type so reviewers can properly assess it, and  
+    + offer a way of organizing ideas that can be grounded in scholarly qualitative literature.  
+    
+## Narrative Research  
+
+* Narrative researchers collect _stories_ from individuals (and documents and group conversations)  
+
+* Narrative stories tell of individual _experiences_ and they may shed light on the _identities_ of individuals and how they see themselves.  
+
+* Narrative stories are gathered through many different forms of data.  
+
+* Narrative stories are often heard and shaped by researchers into a chronology, as participants may talk about their past, present, and future.  
+
+## Phenomenological Research  
+
+Describes the common meaning for several individuals of their lived experiences of a concept or a phenomenon.  
+
+* Emphasizes a phenomenon, phrased in terms of a single concept or idea.  
+
+* Explores this phenomenon with a group of individuals who have __all__ experienced the phenomenon.  
+
+* Includes __both__ the subjective and objective experiences of individuals of the phenomenon.  
+
+## Grounded Theory Research  
+
+Intends to move beyond description of individual experiences and to generate or discover a theory or a "unified theoretical explanation" for a process or action.  
+
+* The researcher focuses on a process or action that has distinct steps or phases that occur over time.  
+
+* The researcher seeks to develop a theory of this process or action.  
+
+## Ethnographic Research  
+
+Focuses on an entire culture-sharing group.  
+
+* The researcher describes and interprets the shared and learned patterns of values, beliefs, behaviors, and language of the group.  
+
+* Ethnography is the process of extended observations of the group, most often through participant observation, in which the researcher is immersed in the day-to-day lives of the people.  
+
+## Case Study Research  
+
+Studies a __single__ case within a real-life, contemporary context or setting (often called a _bounded system_).    
+
+* The researcher explores this(these) _case(s)_ over time,  
+    + through detailed, in-depth data collection,  
+    + involving multiple sources of information, and    
+    + reports a case description and case themes.  
+    
+* The goal is an in-depth understanding of the case(s).      
+
